@@ -18,6 +18,9 @@
 
 ## Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-F58220?logo=hono&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-398CCB?logo=trpc&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
