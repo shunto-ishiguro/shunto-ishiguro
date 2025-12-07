@@ -23,6 +23,7 @@
 ![Hono](https://img.shields.io/badge/Hono-F58220?logo=hono&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-398CCB?logo=trpc&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 ---
