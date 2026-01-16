@@ -16,7 +16,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss" height="28" alt="Tailwind CSS" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/shadcnui" height="28" alt="shadcn/ui" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/framer" height="28" alt="Framer Motion" style="margin-right:8px;" />
-  <img src="https://cdn.simpleicons.org/react" height="28" alt="React Native" style="margin-right:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="28" alt="Zustand" />
 </p>
 
