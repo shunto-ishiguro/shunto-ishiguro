@@ -28,7 +28,6 @@
   <img src="https://cdn.simpleicons.org/express" height="28" alt="Express" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/hono" height="28" alt="Hono" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/trpc" height="28" alt="tRPC" style="margin-right:8px;" />
-  <img src="https://cdn.simpleicons.org/go" height="28" alt="Go" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/gin" height="28" alt="Gin" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/zod" height="28" alt="zod" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/openapiinitiative" height="28" alt="OpenAPI" />
