@@ -1,30 +1,64 @@
 # Shunto Ishiguro
 
 ## Main Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![TypeScript](https://cdn.simpleicons.org/typescript)
+![Go](https://cdn.simpleicons.org/go)
 
 ---
 
 ## Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcn&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
+![React](https://cdn.simpleicons.org/react)
+![Next.js](https://cdn.simpleicons.org/nextdotjs)
+![Three.js](https://cdn.simpleicons.org/threedotjs)
+![React Three Fiber](https://cdn.simpleicons.org/threedotjs)
+![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss)
+![shadcn/ui](https://cdn.simpleicons.org/shadcnui)
+![Framer Motion](https://cdn.simpleicons.org/framer)
+![React Native](https://cdn.simpleicons.org/react)
+![Zustand](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg)
 
 ---
 
 ## Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-F58220?logo=hono&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-398CCB?logo=trpc&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Node.js](https://cdn.simpleicons.org/nodedotjs)
+![Express](https://cdn.simpleicons.org/express)
+![Hono](https://cdn.simpleicons.org/hono)
+![tRPC](https://cdn.simpleicons.org/trpc)
+![Go](https://cdn.simpleicons.org/go)
+![Gin](https://cdn.simpleicons.org/gin)
+![zod](https://cdn.simpleicons.org/zod)
+![OpenAPI](https://cdn.simpleicons.org/openapiinitiative)
 
 ---
 
+## Database / Auth
+![PostgreSQL](https://cdn.simpleicons.org/postgresql)
+![Supabase](https://cdn.simpleicons.org/supabase)
+![NextAuth.js](https://next-auth.js.org/img/logo/logo-sm.png)
+
+---
+
+## Infrastructure / Hosting
+![Vercel](https://cdn.simpleicons.org/vercel)
+![Render](https://cdn.simpleicons.org/render)
+![Cloudflare Workers](https://cdn.simpleicons.org/cloudflareworkers)
+![Docker](https://cdn.simpleicons.org/docker)
+
+---
+
+## Tooling
+![Git](https://cdn.simpleicons.org/git)
+![GitHub](https://cdn.simpleicons.org/github)
+![GitHub Actions](https://cdn.simpleicons.org/githubactions)
+![pnpm](https://cdn.simpleicons.org/pnpm)
+![ESLint](https://cdn.simpleicons.org/eslint)
+![Biome](https://cdn.simpleicons.org/biome)
+![Figma](https://cdn.simpleicons.org/figma)
+
+---
+
+## Other
+![HTML](https://cdn.simpleicons.org/html5)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.simpleicons.org/javascript)
+![Python](https://cdn.simpleicons.org/python)
