@@ -13,7 +13,6 @@
   <img src="https://cdn.simpleicons.org/react" height="28" alt="React" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/nextdotjs" height="28" alt="Next.js" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/threedotjs" height="28" alt="Three.js" style="margin-right:8px;" />
-  <img src="https://cdn.simpleicons.org/threedotjs" height="28" alt="React Three Fiber" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/tailwindcss" height="28" alt="Tailwind CSS" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/shadcnui" height="28" alt="shadcn/ui" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/framer" height="28" alt="Framer Motion" style="margin-right:8px;" />
@@ -72,7 +71,7 @@
 <h2>Other</h2>
 <p>
   <img src="https://cdn.simpleicons.org/html5" height="28" alt="HTML" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS" />
   <img src="https://cdn.simpleicons.org/javascript" height="28" alt="JavaScript" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/python" height="28" alt="Python" style="margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS" />
 </p>
