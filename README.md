@@ -22,7 +22,7 @@
 
 <hr />
 
-<h2>Backend / Database / Auth　/ Infrastructure / Hosting</h2>
+<h2>Backend / Database / Auth / Infrastructure / Hosting</h2>
 <p>
   <img src="https://cdn.simpleicons.org/nodedotjs" height="28" alt="Node.js" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/express" height="28" alt="Express" style="margin-right:8px;" />
@@ -39,6 +39,8 @@
   <img src="https://cdn.simpleicons.org/cloudflareworkers" height="28" alt="Cloudflare Workers" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/docker" height="28" alt="Docker" />
 </p>
+
+<hr />
 
 <h2>Tooling</h2>
 <p>
