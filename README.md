@@ -22,7 +22,7 @@
 
 <hr />
 
-<h2>Backend</h2>
+<h2>Backend / Database / Auth　/ Infrastructure / Hosting</h2>
 <p>
   <img src="https://cdn.simpleicons.org/nodedotjs" height="28" alt="Node.js" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/express" height="28" alt="Express" style="margin-right:8px;" />
@@ -30,29 +30,15 @@
   <img src="https://cdn.simpleicons.org/trpc" height="28" alt="tRPC" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/gin" height="28" alt="Gin" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/zod" height="28" alt="zod" style="margin-right:8px;" />
-  <img src="https://cdn.simpleicons.org/openapiinitiative" height="28" alt="OpenAPI" />
-</p>
-
-<hr />
-
-<h2>Database / Auth</h2>
-<p>
   <img src="https://cdn.simpleicons.org/postgresql" height="28" alt="PostgreSQL" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/supabase" height="28" alt="Supabase" style="margin-right:8px;" />
   <img src="https://next-auth.js.org/img/logo/logo-sm.png" height="28" alt="NextAuth.js" />
-</p>
-
-<hr />
-
-<h2>Infrastructure / Hosting</h2>
-<p>
+  <img src="https://cdn.simpleicons.org/openapiinitiative" height="28" alt="OpenAPI" />
   <img src="https://cdn.simpleicons.org/vercel" height="28" alt="Vercel" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/render" height="28" alt="Render" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/cloudflareworkers" height="28" alt="Cloudflare Workers" style="margin-right:8px;" />
   <img src="https://cdn.simpleicons.org/docker" height="28" alt="Docker" />
 </p>
-
-<hr />
 
 <h2>Tooling</h2>
 <p>
