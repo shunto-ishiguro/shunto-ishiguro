@@ -1,12 +1,5 @@
 <h1>Shunto Ishiguro</h1>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunto-ihiguro&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-
 <h2>Main Languages</h2>
 <p>
   <img src="https://cdn.simpleicons.org/typescript" height="28" alt="TypeScript" />
