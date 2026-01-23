@@ -1,7 +1,7 @@
 <h1>Shunto Ishiguro</h1>
 
 <h2>Main Languages</h2>
-<p>
+<p style="white-space: nowrap;">
   <img src="https://cdn.simpleicons.org/typescript" height="28" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/go" height="28" alt="Go" />
 </p>
@@ -9,7 +9,7 @@
 <hr />
 
 <h2>Frontend</h2>
-<p>
+<p style="white-space: nowrap;">
   <img src="https://cdn.simpleicons.org/react" height="28" alt="React" />
   <img src="https://cdn.simpleicons.org/nextdotjs" height="28" alt="Next.js" />
   <img src="https://cdn.simpleicons.org/threedotjs" height="28" alt="Three.js" />
@@ -22,7 +22,7 @@
 <hr />
 
 <h2>Backend / Database / Auth / Infrastructure / Hosting</h2>
-<p>
+<p style="white-space: nowrap;">
   <img src="https://cdn.simpleicons.org/nodedotjs" height="28" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/express" height="28" alt="Express" />
   <img src="https://cdn.simpleicons.org/hono" height="28" alt="Hono" />
@@ -42,7 +42,7 @@
 <hr />
 
 <h2>Tooling</h2>
-<p>
+<p style="white-space: nowrap;">
   <img src="https://cdn.simpleicons.org/git" height="28" alt="Git" />
   <img src="https://cdn.simpleicons.org/github" height="28" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/githubactions" height="28" alt="GitHub Actions" />
@@ -55,7 +55,7 @@
 <hr />
 
 <h2>Other</h2>
-<p>
+<p style="white-space: nowrap;">
   <img src="https://cdn.simpleicons.org/html5" height="28" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS" />
   <img src="https://cdn.simpleicons.org/javascript" height="28" alt="JavaScript" />
