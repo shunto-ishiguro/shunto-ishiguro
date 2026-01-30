@@ -1,63 +1,22 @@
-<h1>Shunto Ishiguro</h1>
+# shunto-ishiguro (20)
 
-<h2>Main Languages</h2>
-<p>
-  <img src="https://cdn.simpleicons.org/typescript" height="28" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/go" height="28" alt="Go" />
-</p>
+**Web & Mobile Developer**  
+---
 
-<hr />
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-<h2>Frontend</h2>
-<p>
-  <img src="https://cdn.simpleicons.org/react" height="28" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" height="28" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/threedotjs" height="28" alt="Three.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" height="28" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/shadcnui" height="28" alt="shadcn/ui" />
-  <img src="https://cdn.simpleicons.org/framer" height="28" alt="Framer Motion" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="28" alt="Zustand" />
-</p>
+---
 
-<hr />
+## Interests
 
-<h2>Backend / Database / Auth / Infrastructure / Hosting</h2>
-<p>
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="28" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/express" height="28" alt="Express" />
-  <img src="https://cdn.simpleicons.org/hono" height="28" alt="Hono" />
-  <img src="https://cdn.simpleicons.org/trpc" height="28" alt="tRPC" />
-  <img src="https://cdn.simpleicons.org/gin" height="28" alt="Gin" />
-  <img src="https://cdn.simpleicons.org/zod" height="28" alt="Zod" />
-  <img src="https://cdn.simpleicons.org/postgresql" height="28" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/supabase" height="28" alt="Supabase" />
-  <img src="https://next-auth.js.org/img/logo/logo-sm.png" height="28" alt="NextAuth.js" />
-  <img src="https://cdn.simpleicons.org/openapiinitiative" height="28" alt="OpenAPI" />
-  <img src="https://cdn.simpleicons.org/vercel" height="28" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/render" height="28" alt="Render" />
-  <img src="https://cdn.simpleicons.org/cloudflareworkers" height="28" alt="Cloudflare Workers" />
-  <img src="https://cdn.simpleicons.org/docker" height="28" alt="Docker" />
-</p>
+- Cyber Security  
+- Performance Tuning  
+- 3D  
+- AI  
 
-<hr />
-
-<h2>Tooling</h2>
-<p>
-  <img src="https://cdn.simpleicons.org/git" height="28" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github" height="28" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/githubactions" height="28" alt="GitHub Actions" />
-  <img src="https://cdn.simpleicons.org/pnpm" height="28" alt="pnpm" />
-  <img src="https://cdn.simpleicons.org/eslint" height="28" alt="ESLint" />
-  <img src="https://cdn.simpleicons.org/biome" height="28" alt="Biome" />
-  <img src="https://cdn.simpleicons.org/figma" height="28" alt="Figma" />
-</p>
-
-<hr />
-
-<h2>Other</h2>
-<p>
-  <img src="https://cdn.simpleicons.org/html5" height="28" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS" />
-  <img src="https://cdn.simpleicons.org/javascript" height="28" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/python" height="28" alt="Python" />
-</p>
+---
