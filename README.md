@@ -5,7 +5,6 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -14,9 +13,10 @@
 
 ## Interests
 
-- Cyber Security  
-- Performance Tuning  
-- 3D  
-- AI  
+- Cyber Security
+- Performance Tuning
+- 3D
+- AI
+- UI・UX
 
 ---
