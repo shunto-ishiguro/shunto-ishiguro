@@ -1,6 +1,6 @@
 # shunto-ishiguro (20)
 
-**Web & Mobile Developer**  
+**Web, Mobile & Cloud Developer**  
 ---
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
