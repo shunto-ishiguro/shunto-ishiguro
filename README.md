@@ -18,4 +18,3 @@
 - Performance Tuning
 - 3D
 - AI
-- UI・UX
