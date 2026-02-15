@@ -16,5 +16,5 @@
 
 - Cyber Security
 - Performance Tuning
-- 3D
-- AI
+- System Architecture
+- Mathematical Optimization
