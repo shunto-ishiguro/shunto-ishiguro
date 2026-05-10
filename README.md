@@ -1,21 +1,15 @@
-# shunto-ishiguro (20)
+# shunto-ishiguro (21)
 
 **Developer**
 ---
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,go,cs,cpp,react,unity,docker,terraform,kubernetes,aws,gcp)](https://skillicons.dev)
 ---
 
 ## Interests
 
-- Cyber Security
 - System Architecture
 - Networking
+- Cyber Security
+- Performance Optimization
+- Visual Aesthetics
