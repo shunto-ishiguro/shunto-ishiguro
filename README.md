@@ -3,7 +3,7 @@
 **Developer**
 ---
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,go,cs,cpp,react,unity,docker,terraform,kubernetes,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,unity,docker,terraform,kubernetes,aws,gcp)](https://skillicons.dev)
 ---
 
 ## Interests
